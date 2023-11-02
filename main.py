@@ -3,7 +3,7 @@ sample = txt.read()
 
 
 sample = "380 339 420 308 448"
-cols = sample.split()
+cols = sample.split().
 num_list = []
 for col in cols:
         num = int(col)
